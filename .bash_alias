@@ -1,0 +1,4 @@
+alias work='cd ~/code/work;pwd'
+alias home='cd ~/code/home;pwd'
+alias extlib='cd ~/code/extlib;pwd'
+alias docs='cd ~/Documents;pwd'
