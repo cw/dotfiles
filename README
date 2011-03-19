@@ -1,0 +1,6 @@
+# Christian Wilcox Dot Files
+
+These are config files I use to maintain shell behaviour across platforms.
+
+All the computing plaforms I run (Windows at work, OSX at home, Linux on hosted
+servers) use the same config files for Bash, Vim, Git, Mercurial and more.
