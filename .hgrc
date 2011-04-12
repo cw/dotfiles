@@ -5,4 +5,4 @@ ssh = ssh -C
 
 [extensions]
 hgext.bookmarks =
-hggit = ~/code/extlib/hg-git/hggit
+color =
