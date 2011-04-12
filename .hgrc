@@ -2,3 +2,7 @@
 username = Christian Wilcox <cw@christianwilcox.com>
 verbose = True
 ssh = ssh -C
+
+[extensions]
+hgext.bookmarks =
+hggit = ~/code/extlib/hg-git/hggit
