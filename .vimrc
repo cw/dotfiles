@@ -205,7 +205,7 @@ endif
 "  sh config
 " ---------------------------------------------------------------------------
 
-au Filetype sh,bash set ts=4 sts=4 sw=4 expandtab
+au Filetype sh,bash set ts=2 sts=2 sw=2 expandtab
 let g:is_bash = 1
 
 " ---------------------------------------------------------------------------
